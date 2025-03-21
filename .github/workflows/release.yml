@@ -39,4 +39,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PUBLISH_GH_TOKEN }}
           NPM_TOKEN: ${{ secrets.PUBLISH_NPM_TOKEN }}
         run: |
+          npm cache clean --force
           npx semantic-release

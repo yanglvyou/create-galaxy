@@ -26,5 +26,5 @@ export default {
       },
     ],
   ],
-  dryRun: true,
+  dryRun: false,
 };

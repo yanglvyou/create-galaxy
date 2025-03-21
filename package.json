@@ -1,7 +1,6 @@
 {
   "name": "create-galaxy",
   "version": "0.0.0",
-  "type": "module",
   "author": "Yang Lyu You",
   "description": "Create a new Galaxy project",
   "bin": {

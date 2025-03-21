@@ -5,10 +5,10 @@
   "type": "module",
   "description": "Create a new Galaxy project",
   "bin": {
-    "create-galaxy": "index.js"
+    "create-galaxy": "index.cjs"
   },
   "files": [
-    "index.js",
+    "index.cjs",
     "template-*",
     "dist"
   ],

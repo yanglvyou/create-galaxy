@@ -26,7 +26,7 @@ jobs:
       - name: 安装 nodejs
         uses: actions/setup-node@v2.5.2
         with:
-          node-version: "20.14.0" # node 版本
+          node-version: "20.8.0" # node 版本
           cache: "pnpm" # 自动管理 pnpm 缓存
 
       - name: 构建 dist # 构建，根据自己的仓库构建命令来

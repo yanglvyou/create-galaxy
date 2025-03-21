@@ -18,20 +18,20 @@ jobs:
 
     steps:
       - name: 签出代码
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
           persist-credentials: false
 
       - name: 安装 nodejs
-        uses: actions/setup-node@v2.5.2
+        uses: actions/setup-node@v4 # 升级到最新版
         with:
           node-version: "20.8.1" # node 版本
+          cache: "pnpm" # 自动管理 pnpm 缓存
 
       - name: 构建 dist # 构建，根据自己的仓库构建命令来
         run: |
-          npm install -g pnpm@latest-8
-          pnpm install
+          pnpm install --frozen-lockfile
           pnpm run build
 
       - name: 发布 npm 包

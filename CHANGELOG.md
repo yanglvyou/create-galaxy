@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/yanglvyou/create-galaxy/compare/v1.0.6...v1.1.0) (2025-03-21)
+
+
+### Features
+
+* 增加template-react 模板 ([73af805](https://github.com/yanglvyou/create-galaxy/commit/73af8056020ff8353dba86dec0296f5077bb8f5b))
+
 ## [1.0.5](https://github.com/yanglvyou/create-galaxy/compare/v1.0.4...v1.0.5) (2025-03-21)
 
 

@@ -1,7 +1,7 @@
 module.exports = {
   // 这里改成你自己的仓库地址
-  repositoryUrl: "https://github.com/chennlang/walk-tree-list.git",
-  branches: ["master"], // 指定在哪个分支下要执行发布操作
+  repositoryUrl: "https://github.com/yanglvyou/create-galaxy.git",
+  branches: ["main"], // 指定在哪个分支下要执行发布操作
   plugins: [
     // 1. 解析 commit 信息，默认就是 Angular 规范
     "@semantic-release/commit-analyzer",
@@ -26,4 +26,5 @@ module.exports = {
       },
     ],
   ],
+  dryRun: true,
 };

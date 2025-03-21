@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "author": "Yang Lyu You",
   "type": "module",
+  "main": "dist/index.mjs",
   "description": "Create a new Galaxy project",
   "bin": {
     "create-galaxy": "index.mjs"

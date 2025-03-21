@@ -1,4 +1,5 @@
 export default {
+  // https://juejin.cn/post/7443382399699877925#heading-21
   // 这里改成你自己的仓库地址
   repositoryUrl: "https://github.com/yanglvyou/create-galaxy.git",
   branches: ["main"], // 指定在哪个分支下要执行发布操作

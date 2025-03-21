@@ -1,6 +1,6 @@
 {
   "name": "create-galaxy",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "author": "Yang Lyu You",
   "type": "module",
   "description": "Create a new Galaxy project",
@@ -26,6 +26,10 @@
     "type": "git",
     "url": "git+https://github.com/yanglvyou/create-galaxy.git",
     "directory": "packages/create-vite"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "tag": "latest"
   },
   "bugs": {
     "url": "https://github.com/yanglvyou/create-galaxy/issues"

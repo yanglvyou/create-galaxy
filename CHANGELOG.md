@@ -1,3 +1,12 @@
+## [1.0.5](https://github.com/yanglvyou/create-galaxy/compare/v1.0.4...v1.0.5) (2025-03-21)
+
+
+### Bug Fixes
+
+* bug ([cb70797](https://github.com/yanglvyou/create-galaxy/commit/cb70797f916f386e6d8beeb416ebe4432f4f96e0))
+* bug ([d4f06fd](https://github.com/yanglvyou/create-galaxy/commit/d4f06fdc5e3940d562007fc08e0b461a8d776cf7))
+* CI bug ([124f679](https://github.com/yanglvyou/create-galaxy/commit/124f679f33c48dbd151dac0135868a630d9217d3))
+
 ## [1.0.4](https://github.com/yanglvyou/create-galaxy/compare/v1.0.3...v1.0.4) (2025-03-21)
 
 

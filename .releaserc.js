@@ -26,5 +26,5 @@ module.exports = {
       },
     ],
   ],
-  dryRun: true,
+  dryRun: false,
 };

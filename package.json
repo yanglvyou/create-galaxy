@@ -9,7 +9,7 @@
   },
   "files": [
     "index.cjs",
-    "template-*",
+    "template-react-ts",
     "dist"
   ],
   "scripts": {

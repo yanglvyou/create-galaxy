@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/yanglvyou/create-galaxy/compare/v1.0.3...v1.0.4) (2025-03-21)
+
+
+### Bug Fixes
+
+* bug ([f4297ae](https://github.com/yanglvyou/create-galaxy/commit/f4297ae5f10427641b335333e57f2e14d1452ea8))
+
 ## [1.0.3](https://github.com/yanglvyou/create-galaxy/compare/v1.0.2...v1.0.3) (2025-03-21)
 
 

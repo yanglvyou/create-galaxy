@@ -1,0 +1,27 @@
+# 1.0.0 (2025-03-21)
+
+
+### Bug Fixes
+
+* bug ([ee861d5](https://github.com/yanglvyou/create-galaxy/commit/ee861d50fcc0b0eaff88b781f6ab92843d2b637a))
+* bug ([f068643](https://github.com/yanglvyou/create-galaxy/commit/f068643063ebd7ff077fafd223c9c19889f626fc))
+* release.yml ([9377db9](https://github.com/yanglvyou/create-galaxy/commit/9377db97a2003253dee3251b24766940e671cc9e))
+* release.yml ([89d9aee](https://github.com/yanglvyou/create-galaxy/commit/89d9aeebe17b8daa2a4ab908378908afdd69e712))
+* release.yml ([f09321a](https://github.com/yanglvyou/create-galaxy/commit/f09321a01b9b5c9009e36611a42b03cf8d7956c7))
+* release.yml ([ef16b8d](https://github.com/yanglvyou/create-galaxy/commit/ef16b8d02150ed6e7d11478d2338e4cec8db9fa2))
+* release.yml ([60e6a4b](https://github.com/yanglvyou/create-galaxy/commit/60e6a4b5916b57473de4a2f07a32dab493a05c5e))
+* release.yml ([b8bb195](https://github.com/yanglvyou/create-galaxy/commit/b8bb195e8e476f43f9a11893db3b3c26210396fd))
+* release.yml ([b74d662](https://github.com/yanglvyou/create-galaxy/commit/b74d662cf3e9bc250b61cdf766c5672e15a9a0c5))
+* release.yml ([74e606a](https://github.com/yanglvyou/create-galaxy/commit/74e606a013b1b928823f3cbec68e1bea0ab68c61))
+* release.yml ([5abe4f9](https://github.com/yanglvyou/create-galaxy/commit/5abe4f9d32a21de2ca349148e175a2a1e2b18262))
+* release.yml ([aae8cdc](https://github.com/yanglvyou/create-galaxy/commit/aae8cdc08a7626665fecc8c9050190bd6810662b))
+* release.yml ([41dbe38](https://github.com/yanglvyou/create-galaxy/commit/41dbe38c42fbf287250513d1e136b41f2f9e3278))
+
+
+### Features
+
+* CI 发布 ([ed767b4](https://github.com/yanglvyou/create-galaxy/commit/ed767b434725e53eccc04b1c0aa5f6ca24f2fe60))
+* 发布 create-galaxy ([4da9d16](https://github.com/yanglvyou/create-galaxy/commit/4da9d16e3784d16318fb891b2bbfb2f9b449bc69))
+* 发布 create-galaxy ([621f427](https://github.com/yanglvyou/create-galaxy/commit/621f427fedaeb844f4dfbae1627ce46d2347087f))
+* 添加CI自动发布 ([de24c7f](https://github.com/yanglvyou/create-galaxy/commit/de24c7f66e8981fa33684da3a51108c052cad10a))
+* 脚手架完成 ([d4b8bbd](https://github.com/yanglvyou/create-galaxy/commit/d4b8bbdf7224e3e7aa58eecf30e2cb29319bc8d2))

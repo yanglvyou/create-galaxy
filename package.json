@@ -3,13 +3,13 @@
   "version": "1.0.3",
   "author": "Yang Lyu You",
   "type": "module",
-  "main": "dist/index.mjs",
   "description": "Create a new Galaxy project",
   "bin": {
-    "create-galaxy": "index.mjs"
+    "create-galaxy": "index.js",
+    "cva": "index.js"
   },
   "files": [
-    "index.mjs",
+    "index.js",
     "template-*/**",
     "dist"
   ],
@@ -20,18 +20,17 @@
     "prepublishOnly": "npm run build"
   },
   "engines": {
-    "node": "^14.18.0 || >=16.0.0"
+    "node": "^18.0.0 || ^20.0.0 || >=22.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vitejs/vite.git",
+    "url": "git+https://github.com/yanglvyou/create-galaxy.git",
     "directory": "packages/create-vite"
   },
   "bugs": {
-    "url": "https://github.com/vitejs/vite/issues"
+    "url": "https://github.com/yanglvyou/create-galaxy/issues"
   },
-  "homepage": "https://github.com/vitejs/vite/tree/main/packages/create-vite#readme",
-  "funding": "https://github.com/vitejs/vite?sponsor=1",
+  "homepage": "https://github.com/yanglvyou/create-galaxy#readme",
   "devDependencies": {
     "@clack/prompts": "^0.10.0",
     "@semantic-release/changelog": "^6.0.3",

@@ -10,7 +10,7 @@
   },
   "files": [
     "index.mjs",
-    "template-react-ts",
+    "template-*/**",
     "dist"
   ],
   "scripts": {

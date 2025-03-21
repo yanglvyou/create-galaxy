@@ -2,6 +2,7 @@
   "name": "create-galaxy",
   "version": "0.0.0",
   "author": "Yang Lyu You",
+  "type": "module",
   "description": "Create a new Galaxy project",
   "bin": {
     "create-galaxy": "index.js"

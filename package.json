@@ -1,6 +1,6 @@
 {
   "name": "create-galaxy",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "author": "Yang Lyu You",
   "type": "module",
   "description": "Create a new Galaxy project",
